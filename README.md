@@ -1,3 +1,3 @@
 ---
-# Scaler-challenge-TestRepo
+# github-actions-test
 ---
